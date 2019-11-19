@@ -1,8 +1,8 @@
 [user]
-	name = Dmitry Baginsky
-	email = dmitri.baginski@gmail.com
+	name = Oksana Klimko
+	email = oksana.klimko@netcosports.com
 [github]
-	user = betraying
+	user = oksanaklimko
 [core]
 	excludesfile = ~/.gitignore
 [rerere]

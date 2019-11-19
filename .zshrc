@@ -1,5 +1,5 @@
 export ZSH="/Users/$(whoami)/.oh-my-zsh"
-export XCODE_INSTALL_USER="dmitri.baginski@gmail.com"
+export XCODE_INSTALL_USER="oksana.klimko@netcosports.com"
 
 ZSH_AUTOSUGGEST_CLEAR_WIDGETS+=(bracketed-paste accept-line)
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=15'

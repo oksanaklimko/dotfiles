@@ -45,7 +45,7 @@ alias grmignored='git ls-files --ignored --exclude-standard -z | xargs -0 git rm
 # Folders
 
 alias dotfiles="cd ~/.dotfiles"
-alias gitdir="cd ~/Documents/Git"
+alias gitdir="cd ~/Projects"
 
 # Common
 
